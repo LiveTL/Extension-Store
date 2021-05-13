@@ -1,0 +1,11 @@
+{
+  "name": "extension-store",
+  "version": "0.1.0",
+  "description": "Cross-platform extension storage wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "r2dev2",
+  "license": "AGPL-3.0"
+}
