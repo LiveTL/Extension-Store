@@ -4,13 +4,13 @@ Cross-platform extension storage wrapper
 
 ## Installation
 
-```
+```bash
 npm install extension-store
 ```
 
 ## Usage
 
-```
+```js
 const { Storage } = require('extension-store');
 
 const storage = new Storage('v0.1.0');
